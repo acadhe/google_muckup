@@ -1,0 +1,19 @@
+#screen{
+		
+		width: 100%;
+		
+		overflow-y: scroll;
+
+
+	}
+
+a {
+	position: absolute;
+	top: 167px;
+	left: 123px;
+	font-size: 1.3em;
+	color: rgba(10, 10, 10, 0);
+	text-decoration: none;
+	border: 0px solid black;
+
+}

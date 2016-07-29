@@ -1,0 +1,30 @@
+body{
+		width: 100%;
+		background: url('img/7.png') no-repeat center  center fixed ;
+		background-color: #f0f0f0;
+		background-size: 1024px 768px;
+	}
+
+#button input {
+	margin-top: 26.5%;
+	width: 37.5%;
+	margin-right: 0;
+	margin-left: 30.5%;
+	line-height: 2.1em;
+	font-family: verdana;
+	position: fixed;
+}
+
+#button2 button {
+	margin-top: 30.7%;
+	width: 11.7%;
+	margin-right: 0;
+	margin-left: 43.6%;
+	line-height: 2.1em;
+	font-family: verdana;
+	height: 23px;
+	cursor:pointer;
+	background-color:rgba(10,10,10,0);
+	border: 0px; 
+	border-radius: 30px;
+}
